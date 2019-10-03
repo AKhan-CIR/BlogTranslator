@@ -1,0 +1,13 @@
+
+#newBlogForm {
+    padding: 1rem;
+    width: stretch;
+    height: auto;
+    display: none;
+    opacity: .8;
+    display: none;
+  }
+
+  ul {
+    list-style-type: none;
+   }
